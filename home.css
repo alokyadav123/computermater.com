@@ -1,0 +1,42 @@
+h1{
+    color: khaki;
+}
+body{
+    background-image: url(ak.jpg);
+}
+
+h1{
+    margin-left: 400px;
+}
+
+h2{
+    margin-left: 150px;
+    color: purple;
+}
+
+p{
+margin-left: 600px;
+font-size: 30px;
+}
+
+h3{
+    font-size: 25px;
+    position: absolute;
+    bottom: 460px;
+    margin-left: 200px;
+    color: purple;
+}
+
+h4{
+    margin-left: 350px;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+   color: purple;
+}
+#ai{
+    height: 250px;
+   position: relative;
+bottom: 250px;
+width: 500px;
+}

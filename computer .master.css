@@ -1,0 +1,74 @@
+h1 {
+    color:#3300ff;
+    font-size: 40px;
+    font-weight: bolder;
+    
+
+    
+}
+a {
+    color:#009966;
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: 400;
+    
+}
+
+body {
+    background-image: url(image.jpg);
+    background-size: 1100px;
+    
+
+}
+
+#image {
+    height: 200px;
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 40px;
+    border-radius: 20px;
+    
+
+
+}
+#go{
+
+    position: relative;
+    right: 700px;
+    
+    position: absolute;
+    bottom: 250px;
+    color:blueviolet;
+    font-size: 20px;}
+
+
+
+#image:hover{
+    height: 250px;
+    width: 340px;
+}
+p{
+    color:;
+    font-size: 35px;
+    margin-left: 435px;
+    position: absolute;
+ bottom: 30px;
+    
+}
+
+    p:hover{
+       
+       color: rgb(92, 152, 204);
+    }
+
+   
+
+    
+}
+
+
+
+    
+    
+
+
